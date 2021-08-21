@@ -1,0 +1,1 @@
+rustc -O -C prefer-dynamic -o utf82latex src/main.rs
